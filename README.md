@@ -24,5 +24,3 @@ corresponding packet has been received.
 The complete problem description with details of all features is [here](CN F303 Programming Assignment.pdf)
 
 The implemented solution is in the respective folders.
-
-###### A video demonstration of both the problems is available here: [problem1] and [problem2]
