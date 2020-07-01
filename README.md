@@ -21,4 +21,8 @@ corresponding packet has been received.
 3. There are two relay switches. All packets from first channel go through the first relay and all packets from second channel go through the second relay. The server sends ACK through the same relay from which it recieves packet.
 4. Packets are dropped with a PDR of 10%. No ACKs are dropped.
 
-The complete problem description with details of all features is [here]
+The complete problem description with details of all features is [here](CN F303 Programming Assignment.pdf)
+
+The implemented solution is in the respective folders.
+
+###### A video demonstration of both the problems is available here: [problem1] and [problem2]
