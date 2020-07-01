@@ -1,13 +1,9 @@
-Computer Networks Assignment
+QUESTION 2
 -----------------------------------------------------------------------------------------------------
-
+Computer Networks Assignment
 Submitted by:
 Shaily Bhatt
 2017A7PS0040P
-
-QUESTION 2
-
-
 
 Execution Instructions
 ----------------------
